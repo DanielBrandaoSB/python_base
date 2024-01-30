@@ -1,0 +1,12 @@
+Olá, %(nome)s
+
+Você gostaria de comprar %(produto)s ?
+ 
+Esse produto é bastante revolucionador, pois te ajuda a resolver
+ %(texto)s
+
+ temos apenas %(quantidade)d unidades
+ preço promocional por apenas R$ %(preco).2f reais
+
+ Aproveite!
+ 

@@ -34,3 +34,6 @@ try:
 except:
     print("[Eroor]:Missing name in the list")
     sys.exit(1)
+
+
+#Parei na aula #F24 no minuto 48:59 min

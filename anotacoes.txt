@@ -1,0 +1,3 @@
+minha primeira nota	Geral	Texto teste	data:2024-01-07T11:38:11.598010
+minha segunda nota	Tech	Python é legal	data:2024-01-07T11:38:30.247281
+blabla	teste	olá	data:2024-01-11T09:00:23.493293

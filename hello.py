@@ -39,3 +39,16 @@ if __name__ == "__main__": # linha que define o bloco principal de python
 
     print(msg)
     
+
+
+"""
+# CRIANDO UMA VENV
+
+python3 -m venv (nome da venv)
+
+# ATIVANDO A VENV
+
+(nome da venv)\Scripts\activate
+
+"""
+
