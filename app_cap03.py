@@ -4,6 +4,8 @@ import time
 import numpy as np
 import pandas as pd
 import streamlit as st
+import sklearn.metrics
+import sklearn.datasets
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
